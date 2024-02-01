@@ -12,3 +12,5 @@
 🚀 Explore my latest projects and experiments, where I blend design principles with advanced web development.
 
 ### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-Kasper-Schmidt
+
