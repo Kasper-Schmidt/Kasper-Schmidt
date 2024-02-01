@@ -1,7 +1,7 @@
 # Kasper Schmidt - Web Developer
 
 ## Background
-👨‍🎓 I hold a degree in multimedia design, specializing in crafting aesthetically pleasing digital experiences.
+👨‍🎓 I hold a degree in multimedia design, specializing in crafting aesthetically pleasing digital experiences. <br>
 🌐 Continuing my journey as a web developer, focusing on bringing creative concepts to life through coding and implementing innovative solutions.
 
 ## Technical Skills
