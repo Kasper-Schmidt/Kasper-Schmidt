@@ -5,8 +5,11 @@
 🌐 Continuing my journey as a web developer, focusing on bringing creative concepts to life through coding and implementing innovative solutions
 
 ## Coding
-⚙️ Worked in PHP, HTML, CSS, JavaScript, and frameworks like React and Vue. <br>
-🔒 Security (Cross Site Scripting, SQL-injections, Hashing)
+🐘 PHP and HTML <br>
+🎨 CSS and SASS <br>
+🚀 Javascript and frameworks like Vue and React <br>
+📝 Wordpress <br>
+🔒 Security (Cross Site Scripting, SQL-injections, Hashing, Tokens and CAPTCHA)
 
 ## Design
 🗼 Desinging Lo-Fi and Hi-Fi sketches and prototypes of websites in Adobe XD <br>
