@@ -11,6 +11,5 @@
 ##Projects
 🚀 Explore my latest projects and experiments, where I blend design principles with advanced web development.
 
-### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasper-Schmidt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
