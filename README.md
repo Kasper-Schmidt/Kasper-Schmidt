@@ -1,4 +1,4 @@
-# Kasper Schmidt - Web Developer
+# Kasper Schmidt - Web Developer 🙋🏼‍♂️
 
 ## Background
 👨‍🎓 I hold a degree in multimedia design, specializing in crafting aesthetically pleasing digital experiences <br>
