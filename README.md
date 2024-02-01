@@ -5,7 +5,7 @@
 🌐 Continuing my journey as a web developer, focusing on bringing creative concepts to life through coding and implementing innovative solutions
 
 ## Coding
-⚙️ Worked in HTML, CSS, JavaScript, and frameworks like React and Vue. <br>
+⚙️ Worked in PHP, HTML, CSS, JavaScript, and frameworks like React and Vue. <br>
 🔒 Security (Cross Site Scripting, SQL-injections, Hashing)
 
 ## Design
