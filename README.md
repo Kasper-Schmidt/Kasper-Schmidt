@@ -5,7 +5,7 @@
 🌐 Continuing my journey as a web developer, focusing on bringing creative concepts to life through coding and implementing innovative solutions.
 
 ## Technical Skills
-⚙️ Worked in HTML, CSS, JavaScript, and frameworks like React and Vue.
+⚙️ Worked in HTML, CSS, JavaScript, and frameworks like React and Vue. <br>
 🎨 Familiar with design tools and video editing tools from the Adobe package.
 
 ## Projects
