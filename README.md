@@ -16,5 +16,6 @@
 🎨 Designing and editing images in different Adobe programs like Photoshop and Illustrator <br>
 🎥 Video editing in Adobe Premiere Pro
 
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasper-Schmidt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
