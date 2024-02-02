@@ -2,7 +2,7 @@
 
 ## Background
 👨‍🎓 I hold a degree in multimedia design, specializing in crafting aesthetically pleasing digital experiences <br>
-🌐 Continuing my journey as a web developer, focusing on bringing creative concepts to life through coding and implementing innovative solutions
+🌐 Continuing my journey by studying a web-developer degree on top of that to specialize in making websites.
 
 ## Coding
 🐘 PHP and HTML <br>
