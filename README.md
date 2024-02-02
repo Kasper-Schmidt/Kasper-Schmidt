@@ -7,7 +7,7 @@
 ## Coding
 🐘 PHP and HTML <br>
 🎨 CSS and SASS <br>
-🚀 Javascript and frameworks like Vue and React <br>
+🚀 Javascript and frameworks like Vue, React and Laravel <br>
 📝 Wordpress <br>
 🔒 Security (Cross Site Scripting, SQL-injections, Hashing, Tokens and CAPTCHA)
 
