@@ -8,7 +8,7 @@
 🐘 PHP and HTML <br>
 🎨 CSS and SASS <br>
 🚀 Javascript and Typescript <br> 
-🚀 Frameworks like Vue, React and Laravel <br>
+🚀 Frameworks like Vue and Laravel <br>
 📝 Wordpress <br>
 💾 Databases MySQL and NoSQL like phpMyAdmin and MongoDB <br>
 🔒 Security (Cross Site Scripting, SQL-injections, Hashing, Tokens and CAPTCHA)
