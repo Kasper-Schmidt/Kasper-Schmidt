@@ -2,6 +2,7 @@
 
 ## Background
 👨‍🎓 I hold a bachelor degree in Webdeveloper. I also have a Multimediadesigner degree. <br>
+    Both degrees aquired from EASV (Erhvervsakademi SydVest) in Esbjerg
 
 ## Coding
 🐘 HTML and PHP <br>
