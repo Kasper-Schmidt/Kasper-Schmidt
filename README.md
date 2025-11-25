@@ -5,10 +5,11 @@
 🌐 Continuing my journey by studying a web-developer degree on top of that to specialize in making websites.
 
 ## Coding
-🐘 PHP and HTML <br>
-🎨 CSS and SASS <br>
+🐘 HTML and PHP <br>
+🎨 Tailwind, CSS and SASS <br>
 🚀 Javascript and Typescript <br> 
 🚀 Frameworks like Vue and Laravel <br>
+📝 Umbraco (professional Certification) <br>
 📝 Wordpress <br>
 💾 Databases MySQL and NoSQL like phpMyAdmin and MongoDB <br>
 🔒 Security (Cross Site Scripting, SQL-injections, Hashing, Tokens and CAPTCHA)
