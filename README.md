@@ -1,7 +1,7 @@
 # Kasper Schmidt - Web Developer 🙋🏼‍♂️
 
 ## Background
-👨‍🎓 I hold a bachelor degree in Webdeveloper. I only have a Multimediadesigner degree. <br>
+👨‍🎓 I hold a bachelor degree in Webdeveloper. I also have a Multimediadesigner degree. <br>
 
 ## Coding
 🐘 HTML and PHP <br>
