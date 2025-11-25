@@ -21,5 +21,4 @@
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasper-Schmidt&layout=compact&theme=vision-friendly-dark)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasper-Schmidt&stats_format=bytes)
 
