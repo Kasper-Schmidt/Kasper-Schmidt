@@ -10,6 +10,7 @@
 🚀 Javascript and Typescript <br> 
 🚀 Frameworks like Vue and Laravel <br>
 📝 Umbraco (professional Certificate) <br>
+☁️ Umbraco Cloud <br>
 📝 Wordpress <br>
 💾 Databases MySQL and NoSQL like phpMyAdmin and MongoDB <br>
 🔒 Security (Cross Site Scripting, SQL-injections, Hashing, Tokens, ReCAPTCHA and so on)
