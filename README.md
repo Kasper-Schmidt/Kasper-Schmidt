@@ -18,7 +18,7 @@
 ## Design
 🗼 Desinging Lo-Fi and Hi-Fi sketches and prototypes of websites in Adobe XD <br>
 🎨 Designing and editing images in different Adobe programs like Photoshop and Illustrator <br>
-🎥 Video editing in Adobe Premiere Pro
+🎥 Video editing in Adobe Premiere Pro and After Effects
 
 ## Stats
 [![Top Langs](https://github-readme-stats-kasper-schmidt.vercel.app/api/top-langs/?username=Kasper-Schmidt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
